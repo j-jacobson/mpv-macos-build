@@ -1,0 +1,8 @@
+gcc
+yasm
+libtool
+pkg-config
+autoconf
+automake
+libtool
+python3
